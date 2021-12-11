@@ -13,3 +13,5 @@ Our universe (basket) of stocks:
 
 
 Choose the top 4 ETF's with the greatest returns in the past 180 trading days. Take these 3 ETF's, analyze its standard deviations and covariances, and use these values to generate the Markowitz Min-Variance Portfolio derived from Modern Portfolio Theory
+
+**Reanalyze and readjust the portfolio at the end of every month
